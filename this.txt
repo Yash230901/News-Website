@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "Gadgets 360 Staff With Inputs From ANI",
+            "title": "Jio Launches 5 New Prepaid Plans With 'No Daily Limit' on Data Usage - Gadgets 360",
+            "description": "io has introduced five new prepaid plans that come with no FUP cap or daily usage limit for data services priced starting at Rs. 127. Other prepaid plans are Rs. 247, Rs. 447, Rs. 597, and Rs. 2,397.",
+            "url": "https://gadgets.ndtv.com/telecom/news/jio-prepaid-plan-rs-127-247-447-597-2397-launch-unlimited-data-usage-no-fup-daily-limit-cap-2462421",
+            "urlToImage": "https://i.gadgets360cdn.com/large/jio_plans_1623499302449.jpg",
+            "publishedAt": "2021-06-12T12:05:12Z",
+            "content": "India's largest telecom operator Reliance Jio on Saturday introduced five new plans with ''no daily limit'' prepaid mobility offerings. The new plans start from Rs. 127 and go up to Rs. 2,397. All of… [+2048 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Nintendo Life",
+            "title": "Nintendo's Official Website Reveals Mario + Rabbids Sparks Of Hope, Coming To Switch In 2022 - Nintendo Life",
+            "description": "Just hours out from Ubisoft's E3 presentation",
+            "url": "https://www.nintendolife.com/news/2021/06/nintendos_official_website_reveals_mario_plus_rabbids_sparks_of_hope_coming_to_switch_in_2022",
+            "urlToImage": "https://images.nintendolife.com/04d1e4b573b6b/1280x720.jpg",
+            "publishedAt": "2021-06-12T11:35:00Z",
+            "content": "Update (Sat 12th Jun, 2021 12:35 BST): It appears Ubisoft's Switch exclusive has been revealed ahead of schedule, and as rumoured it's a sequel to the 2017 title Mario + Rabbids Kingdom Battle.\r\nNint… [+2555 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "Tasneem Akolawala",
+            "title": "Anker Soundcore Life P3 TWS Earbuds With 6 Mics, Gaming Mode, and 35 Hours Playback Launched - Gadgets 360",
+            "description": "Anker Soundcore Life P3 truly wires stereo (TWS) earbuds have been launched in the UK priced at GBP 79.99 (roughly Rs. 8,200). They are up for reservation on the Soundcore UK website and are anticipated to go on sale in July. The earphones come in several col…",
+            "url": "https://gadgets.ndtv.com/audio/news/anker-soundcore-life-p3-tws-earbuds-price-gbp-79-99-launch-specifications-features-pre-order-sale-july-2462351",
+            "urlToImage": "https://i.gadgets360cdn.com/large/anker_soundcore_life_p3_main_1623493268584.jpg",
+            "publishedAt": "2021-06-12T10:31:41Z",
+            "content": "Anker Soundcore Life P3 truly wireless stereo (TWS) earphones have been launched in the UK. The earbuds have an in-ear design and come with a charging case that houses them when not in use. Anker say… [+1869 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Henry St Leger",
+            "title": "What could an Xbox streaming stick look like? - Techradar",
+            "description": "Cloud gaming is getting a new plug-in streamer from Xbox",
+            "url": "https://www.techradar.com/news/what-could-an-xbox-streaming-stick-look-like",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/wNvizpNniEmPGbuZE7rqG5-1200-80.jpg",
+            "publishedAt": "2021-06-12T10:00:34Z",
+            "content": "On the cusp of E3 2021, Microsoft has been making some fascinating announcements. Alongside news of an Xbox Game Pass app coming to smart TVs in the near future, it also confirmed that streaming devi… [+5401 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Darren Allan",
+            "title": "Windows 10 emergency patch fixes a bug that breaks Xbox Game Pass - Techradar",
+            "description": "Some Xbox Game Pass users now can’t play or install games",
+            "url": "https://www.techradar.com/news/windows-10-emergency-patch-fixes-a-bug-that-breaks-xbox-game-pass",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jw4rUv6fzLTDtFgwKYx388-1200-80.jpg",
+            "publishedAt": "2021-06-12T09:12:59Z",
+            "content": "Windows 10 has received an emergency patch to cure a problem hitting a minority of folks running one of the latest versions of Microsofts OS, and its a bug that causes the Xbox Game Pass to be seriou… [+1326 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sportskeeda"
+            },
+            "author": "Manish Kumar Choudhary",
+            "title": "How to download Minecraft 1.18 Caves & Cliffs update Prototype data pack for Java Edition - Sportskeeda",
+            "description": "The first phase of Minecraft's most anticipated update has finally been released across all devices, including iOS, Android, PlayStation, and more.",
+            "url": "https://www.sportskeeda.com/minecraft/how-download-minecraft-1-18-caves-cliffs-update-prototype-data-pack-java-edition",
+            "urlToImage": "https://staticg.sportskeeda.com/editor/2021/06/e6c69-16234839746438-800.jpg",
+            "publishedAt": "2021-06-12T08:10:37Z",
+            "content": "The first phase of Minecraft's most anticipated update has finally been released across all devices, including iOS, Android, PlayStation, and more. Caves and Cliffs Part 1 features amethyst geodes, a… [+2325 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizbot"
+            },
+            "author": "Priyanka Dua",
+            "title": "Realme To Foray Into New Product Category; Might Launch Laptop And Tablet On June 15 - Gizbot",
+            "description": "Realme is expected to launch a new smartphone called the Realme GT 5G smartphone at the event. The smartphone is already available in China and it comes with a 6.43-inch Super AMOLED display, 120Hz refresh rate, punch-hole display design, Qualcomm Snapdragon …",
+            "url": "https://www.gizbot.com/laptop/news/realme-to-foray-into-new-product-category-might-launch-laptop-and-tablet-on-june-15-074825.html",
+            "urlToImage": "https://www.gizbot.com/img/2021/06/realmelaptop-1623485032.jpg",
+            "publishedAt": "2021-06-12T08:05:02Z",
+            "content": "Realme is all set to launch two much-awaited products in June. The smartphone maker is likely to bring a laptop and tablet on June 15th, 2021. The company has already confirmed this update and shared… [+2483 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Sareena Dayaram",
+            "title": "OnePlus Nord CE has large 4,500-mAh battery and 90Hz display - CNET",
+            "description": "CE stands for Core Edition, which means OnePlus is doing away with the fluffy smartphone features.",
+            "url": "https://www.cnet.com/news/oneplus-nord-ce-has-large-4500-mah-battery-90hz-display/",
+            "urlToImage": "https://www.cnet.com/a/img/-SWh4ZuobUMrvJXX0dNcI4e5XWg=/1200x630/2020/07/23/706fe195-cea7-49ff-8348-5a85f9735261/oneplus-nord.jpg",
+            "publishedAt": "2021-06-12T08:00:10Z",
+            "content": "OnePlus\r\nIf you're sick and tired of gimmicky features on phones (and of paying extra for them), then look out for OnePlus' newest offering: the OnePlus Nord Core Edition.\r\nThe Chinese company announ… [+1888 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "OnePlus Nord CE 5G launched along side OnePlus TV U1S in India: Check price, specifications - Kalinga TV",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8va2FsaW5nYXR2LmNvbS90ZWNobm9sb2d5L29uZXBsdXMtbm9yZC1jZS01Zy1sYXVuY2hlZC1hbG9uZy1zaWRlLW9uZXBsdXMtdHYtdTFzLWluLWluZGlhLWNoZWNrLXByaWNlLXNwZWNpZmljYXRpb25zL9IBf2h0dHBzOi8va2FsaW5nYXR2LmNvbS9hbXAvdGVjaG5vbG9neS9vbmVwbHVzLW5vcmQtY2UtNWctbGF1bmNoZWQtYWxvbmctc2lkZS1vbmVwbHVzLXR2LXUxcy1pbi1pbmRpYS1jaGVjay1wcmljZS1zcGVjaWZpY2F0aW9ucy8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-06-12T07:27:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Enter21st"
+            },
+            "author": null,
+            "title": "Razer Is Making a Solar-Powered Ocean-Cleaning Robot - Enter21st",
+            "description": "The rising quantity of plastic wastes within the oceans shouldn’t be one thing new in at present’s world. Each 12 months, as per reviews, oceans and seas around the globe get full of 11 million tons of plastic waste. Citing this international challenge and to…",
+            "url": "https://enter21st.com/razer-is-making-a-solar-powered-ocean-cleaning-robot/",
+            "urlToImage": "https://enter21st.com/wp-content/uploads/2021/06/Razer-and-clearbot-partners-to-develop-ocean-celaning-robot-feat..jpg",
+            "publishedAt": "2021-06-12T07:22:08Z",
+            "content": "The rising quantity of plastic wastes within the oceans shouldn’t be one thing new in at presents world. Each 12 months, as per reviews, oceans and seas around the globe get full of 11 million tons o… [+2115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Ricky",
+            "title": "Xiaomi rumored to release flagship with UWB and under-display camera - GSMArena.com news - GSMArena.com",
+            "description": "The flagship is said to succeed the Mi 10T.",
+            "url": "https://www.gsmarena.com/xiaomi_rumored_to_release_flagship_with_uwb_and_underdisplay_camera_-news-49566.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/21/06/xiaomi-rumored-flagship-with-uwb-under-display-cam/-476x249w4/gsmarena_000.jpg",
+            "publishedAt": "2021-06-12T07:17:01Z",
+            "content": "If a report from leaker Digital Chat Station is to be believed, Xiaomi is planning to release a flagship of the same caliber as the Xiaomi MI 11 Ultra. According to a Weibo post, the new flagship wil… [+1029 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Carrie-Ann Skinner",
+            "title": "How do robot vacuums work, and should I buy one? - Techradar",
+            "description": "Ensure your floors are clean without having to push a vacuum cleaner around",
+            "url": "https://www.techradar.com/news/how-do-robot-vacuums-work-and-should-i-buy-one",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CnVJLucf5saMokrnAv5KLa-1200-80.jpg",
+            "publishedAt": "2021-06-12T07:00:00Z",
+            "content": "Never have any time to vacuum? Or just fed up with spending your free time vacuuming when theres so much better to be doing? Well, the best robot vacuum cleaners let you outsource the chore completel… [+7770 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Android smartphone users, this is how WhatsApp chats may look on your devices soon - Gadgets Now",
+            "description": "WhatsApp is bringing a small but noteworthy change to its app UI for Android users. According to a report by WaBetaInfo, the instant messaging platform has removed line separators between the chat cells. WaBetaInfo is the online platform that shares the lates…",
+            "url": "https://timesofindia.indiatimes.com/gadgets-news/android-smartphone-users-this-is-how-whatsapp-chats-may-look-on-your-devices-soon/articleshow/83455354.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,msid-83455356,imgsize-44747,width-800/83455356.jpg",
+            "publishedAt": "2021-06-12T06:23:00Z",
+            "content": "WhatsApp is bringing a small but noteworthy change to its app UI for Android users. According to a report by WaBetaInfo, the instant messaging platform has removed line separators between the chat ce… [+1423 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Xbox's Summer Game Fest featuring more than 40 demos to begin next week - ANI News",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WnJFbG9jZnBXd1XSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-06-12T06:20:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mysmartprice.com"
+            },
+            "author": "chinnu.1125",
+            "title": "PUBG New State: Here’s Your First Good Look At Troi Map Revealing All Drops and Areas - MySmartPrice",
+            "description": "PUBG New State is slated for a release later this year. Ahead of the release, the company has teased the game’s first map called Troi.",
+            "url": "https://www.mysmartprice.com/gear/pubg-new-state-first-look-troi-map/",
+            "urlToImage": "https://assets.mspimages.in/wp-content/uploads/2021/06/PUBG-New-State-Troi-Map.jpg",
+            "publishedAt": "2021-06-12T06:09:50Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Tech Desk",
+            "title": "Working from home? Check out best cheap 100Mbps broadband plans - The Indian Express",
+            "description": "best cheap 100Mbps broadband plans: There are some broadband services that are offering high-speed internet speed without any restrictions, so you use it to watch movies and play online games.",
+            "url": "https://indianexpress.com/article/technology/techook/working-from-home-check-out-best-cheap-100mbps-broadband-plans-7354519/",
+            "urlToImage": "https://images.indianexpress.com/2021/03/Wifi-1.jpg",
+            "publishedAt": "2021-06-12T05:26:45Z",
+            "content": "Are you working from home and tired of buying extra mobile data? Well, you can buy a cheaper broadband plan that also gives unlimited internet. There are some broadband services that are offering hig… [+2089 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India.com"
+            },
+            "author": "Zee Media Bureau",
+            "title": "Flipkart Big Saving Days: Rs 17,000 cut on Realme 5G phone, big discounts on other smartphones, complete li... - Zee News",
+            "description": "Flipkart is back again with its Big Saving Days sale starting from June 13 and ending on June 16. The e-commerce major has revealed most of the sale prices and top offers before it begins, including amazing deals on smartphones.  The sale is already open for …",
+            "url": "https://zeenews.india.com/technology/flipkart-big-saving-days-rs-17000-cut-on-realme-5g-phone-big-discounts-on-other-smartphones-complete-list-here-2368522.html",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2021/06/12/943123-untitled-design-65.png",
+            "publishedAt": "2021-06-12T05:25:53Z",
+            "content": "New Delhi: Flipkart is back again with its Big Saving Days sale starting from June 13 and ending on June 16. The e-commerce major has revealed most of the sale prices and top offers before it begins,… [+1879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile",
+            "title": "Galaxy Z Fold 3, Z Flip 3, and Galaxy Watch 4 launch dates revealed? - SamMobile",
+            "description": "It was being expected that Samsung would launch the Galaxy Z Flip 3, Galaxy Z Fold 3, Galaxy Watch 4 ...",
+            "url": "https://www.sammobile.com/news/galaxy-z-fold-3-flip-3-watch-active-4-launch-date-revealed/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2021/05/Samsung-Galaxy-Z-Fold-3-Concept-Render-Image-720x405.jpg",
+            "publishedAt": "2021-06-12T04:55:00Z",
+            "content": "It was being expected that Samsung would launch the Galaxy Z Flip 3, Galaxy Z Fold 3, Galaxy Watch 4 series, and the Galaxy Buds 2 sometime in August 2021. However, the actual launch date for those d… [+2486 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Apple wants to take on Zoom, Meet with these new features - Gadgets Now",
+            "description": "In the last one year or so, Zoom and Google Meet have become quite popular with video calls and conferencing becoming the norm. Microsoft and Facebook too have their platforms which have seen many upgrades. However, Apple was conspicuously silent despite havi…",
+            "url": "https://timesofindia.indiatimes.com/gadgets-news/apple-wants-to-take-on-zoom-meet-with-these-new-features/articleshow/83453395.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,msid-83453407,imgsize-469304,width-800/83453407.jpg",
+            "publishedAt": "2021-06-12T04:14:00Z",
+            "content": "In the last one year or so, Zoom and Google Meet have become quite popular with video calls and conferencing becoming the norm. Microsoft and Facebook too have their platforms which have seen many up… [+1479 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sportskeeda"
+            },
+            "author": "Debolina Banerjee",
+            "title": "Battlegrounds Mobile India (PUBG) official Discord, website, APK release date hints, and more - Sportskeeda",
+            "description": "The Indian version of PUBG Mobile, Battlegrounds Mobile India, has been the talk of the battle royale gaming community for the last few months.",
+            "url": "https://www.sportskeeda.com/esports/battlegrounds-mobile-india-pubg-official-discord-website-apk-release-date-hints",
+            "urlToImage": "https://staticg.sportskeeda.com/editor/2021/06/e0284-16234692800121-800.jpg",
+            "publishedAt": "2021-06-12T04:02:39Z",
+            "content": "The Indian version of PUBG Mobile, Battlegrounds Mobile India, has been the talk of the battle royale gaming community for the last few months. As the hype surrounding the game becomes stronger, here… [+2103 chars]"
+        }
+    ]
+
+}
